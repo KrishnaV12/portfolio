@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 120px;
   border: 6px solid #111;
-  box-shadow: 0px 0px 12px 6px  #ff0000;
+  box-shadow: 0px 0px 12px 6px  #00ffd0;
 }
 
 #header .profile h1 {
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a:hover {
   color: #fff;
   text-decoration: none;
-  box-shadow: 0px 0px 12px 4px #ff0000;
+  box-shadow: 0px 0px 12px 4px #eeff00;
 }
 
 #main {
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
  /* background: url("../img/hero-bg.jpg") top center; */
  /* background-size: cover; */
- background: linear-gradient(45deg, #fd5949, #d6249f, #285AEB);
+ background: linear-gradient(45deg, #149ddd, #24d668, #285AEB);
  /* linear-gradient(-45deg, #e73c7e, #23a6d5, #23d5ab, #ee7752); */
 
  animation: gradient 45s ease infinite;
